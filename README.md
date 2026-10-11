@@ -38,4 +38,4 @@ Completed learning paths:
 - 🧰 [m365-powershell-toolkit](https://github.com/anthonybuhnerkemper/m365-powershell-toolkit): read-only Graph/Exchange Online reporting scripts (licensing, stale accounts, external forwarding)
 
 ### Connect
-- LinkedIn: _add link_
+- LinkedIn: [linkedin.com/in/leebuhnerkemper](https://www.linkedin.com/in/leebuhnerkemper)
