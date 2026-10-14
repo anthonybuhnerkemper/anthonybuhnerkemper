@@ -36,6 +36,7 @@ Completed learning paths:
 
 ### Featured
 - 🧰 [m365-powershell-toolkit](https://github.com/anthonybuhnerkemper/m365-powershell-toolkit): read-only Graph/Exchange Online reporting scripts (licensing, stale accounts, external forwarding)
+- 🧰 [graph-powershell7-admin-toolkit](https://github.com/anthonybuhnerkemper/graph-powershell7-admin-toolkit): PowerShell 7 guide and scripts for Microsoft Graph, Purview, Exchange Online, and Entra ID security reporting (certificate auth, least privilege)
 
 ### Connect
 - LinkedIn: [linkedin.com/in/leebuhnerkemper](https://www.linkedin.com/in/leebuhnerkemper)
