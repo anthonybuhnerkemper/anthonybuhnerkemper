@@ -37,6 +37,15 @@ Completed learning paths:
 ### Featured
 - 🧰 [m365-powershell-toolkit](https://github.com/anthonybuhnerkemper/m365-powershell-toolkit): read-only Graph/Exchange Online reporting scripts (licensing, stale accounts, external forwarding)
 - 🧰 [graph-powershell7-admin-toolkit](https://github.com/anthonybuhnerkemper/graph-powershell7-admin-toolkit): PowerShell 7 guide and scripts for Microsoft Graph, Purview, Exchange Online, and Entra ID security reporting (certificate auth, least privilege)
+- 🧰 [sharepoint-online-powershell-toolkit](https://github.com/anthonybuhnerkemper/sharepoint-online-powershell-toolkit): SharePoint Online site inventory, external sharing audit, permissions, storage and site lifecycle (PnP.PowerShell and SPO module)
+- 🧰 [exchange-online-powershell-toolkit](https://github.com/anthonybuhnerkemper/exchange-online-powershell-toolkit): Exchange Online mailbox inventory, permission and forwarding audits, message trace, mailbox cleanup and calendar permissions (EXO v3)
+- 🧰 [entra-id-powershell-toolkit](https://github.com/anthonybuhnerkemper/entra-id-powershell-toolkit): Entra ID user lifecycle, groups and dynamic groups, app secret expiry, sign-in log analysis, licensing and PIM role reports (Microsoft Graph)
+- 🧰 [intune-powershell-toolkit](https://github.com/anthonybuhnerkemper/intune-powershell-toolkit): Intune device inventory, compliance, stale device cleanup, app deployment status, profile export and Autopilot import (Microsoft Graph)
+- 🧰 [teams-powershell-toolkit](https://github.com/anthonybuhnerkemper/teams-powershell-toolkit): Teams inventory, owner and guest audits, orphaned teams, policy assignment, voice basics and channel creation (MicrosoftTeams)
+- 🧰 [defender-xdr-powershell-toolkit](https://github.com/anthonybuhnerkemper/defender-xdr-powershell-toolkit): Defender XDR incidents and alerts, advanced hunting KQL runner, device risk, Secure Score and MDE onboarding (Graph security API)
+- 🧰 [sentinel-kql-toolkit](https://github.com/anthonybuhnerkemper/sentinel-kql-toolkit): Microsoft Sentinel analytics rule export/import, sample KQL detections, incident report and data connector health (Az.SecurityInsights)
+- 🧰 [purview-compliance-toolkit](https://github.com/anthonybuhnerkemper/purview-compliance-toolkit): Purview label policies, DLP monitoring and rollout, retention labels, eDiscovery, audit log search and insider risk (Connect-IPPSSession)
+- 🧰 [onedrive-powershell-toolkit](https://github.com/anthonybuhnerkemper/onedrive-powershell-toolkit): OneDrive inventory and storage, sharing audit, pre-provisioning, departed-user access transfer and Known Folder Move notes (SPO and Graph)
 
 ### Connect
 - LinkedIn: [linkedin.com/in/leebuhnerkemper](https://www.linkedin.com/in/leebuhnerkemper)
