@@ -48,4 +48,5 @@ Completed learning paths:
 - 🧰 [onedrive-powershell-toolkit](https://github.com/anthonybuhnerkemper/onedrive-powershell-toolkit): OneDrive inventory and storage, sharing audit, pre-provisioning, departed-user access transfer and Known Folder Move notes (SPO and Graph)
 
 ### Connect
+- PowerShell Gallery: [powershellgallery.com/profiles/anthonybuhnerkemper](https://www.powershellgallery.com/profiles/anthonybuhnerkemper) (modules: ABK.M365Toolkit, ABK.GraphAdminToolkit, ABK.ConfigMgrToolkit, ABK.CitrixToolkit)
 - LinkedIn: [linkedin.com/in/leebuhnerkemper](https://www.linkedin.com/in/leebuhnerkemper)
